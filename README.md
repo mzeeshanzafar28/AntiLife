@@ -1,2 +1,2 @@
 ﻿# The AntiLife Framework
-<img alt="header.png" src="AntiLife" data-hpc="true" class="">
+<img alt="AntiLife.gif" src="AntiLife" data-hpc="true" class="">
